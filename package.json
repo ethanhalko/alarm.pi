@@ -1,0 +1,16 @@
+{
+	"name": "alarm.pi",
+	"version": "0.0.1",
+	"description": "Alarm Clock in Node.js for Raspberry Pi",
+	"author": "Ethan Halko",
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/ethanhalko/alarm.pi"
+	},
+	"dependencies": {
+		"onoff": "1.0.4",
+		"node-mplayer": "0.0.6",
+		"mongodb": "2.1.7",
+		"moment": "2.12.0"
+	}
+}
