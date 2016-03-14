@@ -10,7 +10,7 @@
 	"dependencies": {
 		"onoff": "1.0.4",
 		"node-mplayer": "0.0.6",
-		"mongodb": "2.1.7",
-		"moment": "2.12.0"
+		"moment": "2.12.0",
+		"mysql": "2.10.2"
 	}
 }

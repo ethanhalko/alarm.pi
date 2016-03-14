@@ -31,3 +31,6 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# We don't need to keep music on github
+files
