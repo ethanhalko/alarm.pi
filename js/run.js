@@ -31,12 +31,10 @@ setInterval( function() {
 
 }, 1000);
 
-button.watch(function(){
-	player.stop();
-});
+button.watch(exit);
 
 function exit() {
-	led.unexport();
+	connection.end();
 	button.unexport();
 	process.exit();
 }
